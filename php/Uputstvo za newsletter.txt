@@ -1,0 +1,5 @@
+Username: aelich
+email:    aelich@bk.ru
+sif:      Luyen19101990@
+
+site: mailchimp.com
